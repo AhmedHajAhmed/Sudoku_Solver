@@ -11,4 +11,4 @@ a. If the digit is valid, recursively attempt to fill the board using steps 1-3.
 
 b. If it is not valid, reset the square the algorithm just filled and go back to the previous step.
 
-5. Once the board is full, we have found the solution.
+Once the board is full, we have found the solution.
